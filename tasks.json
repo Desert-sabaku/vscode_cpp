@@ -16,7 +16,6 @@
                 "-W",
                 "-Wall",
                 "-Wextra",
-                "-O1"
             ],
             "options": {
                 "cwd": "${fileDirname}"
