@@ -10,8 +10,6 @@
                 "${file}",
                 "-o",
                 "${workspaceFolder}/bin/${fileBasenameNoExtension}.exe",
-                "-I",
-                "${cwd}/lib/ac-library-master",
                 "-lm",
                 "-W",
                 "-Wall",
@@ -38,8 +36,6 @@
                 "${file}",
                 "-o",
                 "${workspaceFolder}/bin/${fileBasenameNoExtension}.exe",
-                "-I",
-                "${cwd}/lib/ac-library-master",
                 "-lm",
             ],
             "options": {
