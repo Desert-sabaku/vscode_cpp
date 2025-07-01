@@ -55,4 +55,8 @@ int main(int argc, *argv[])
 各ファイルにコメントを残しているので、それを見ながら書き換えてください。
 
 # 質問などは
-至急issue立ててくれや
+[至急issue立ててくれや
+]([url](https://dic.nicovideo.jp/a/%E8%87%B3%E6%80%A5%E3%83%A1%E3%83%BC%E3%83%A1%E3%83%AB%E3%81%8F%E3%82%8C%E3%82%84))
+
+# 最後に
+初心者はdebuggerとsanitizerの使い方を覚えよう！
