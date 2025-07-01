@@ -3,7 +3,7 @@
         {
             "type": "cppbuild",
             "label": "C/C++: g++ debug active file",
-            "command": "/usr/bin/g++",
+            "command": "/usr/bin/g++", // or /usr/bin/clang
             "args": [
                 "-fdiagnostics-color=always",
                 "-g",
@@ -11,7 +11,6 @@
                 "-o",
                 "${workspaceFolder}/bin/${fileBasenameNoExtension}.exe",
                 "-lm",
-                "-W",
                 "-Wall",
                 "-Wextra",
             ],
